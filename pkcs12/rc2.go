@@ -9,7 +9,7 @@ http://people.csail.mit.edu/rivest/pubs/KRRR98.pdf
 
 This code is licensed under the MIT license.
 */
-package rc2
+package pkcs12
 
 import (
 	"crypto/cipher"
